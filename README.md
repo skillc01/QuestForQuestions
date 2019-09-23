@@ -1,7 +1,7 @@
 ## QuestForQuestions
 
 HackEssex Creation. 
-We tried to create something useful for students like us and thought of a website forum application to be used in lessons.
+We tried to create something useful for students like us and thought of a website forum to be used in lessons.
 Use: 
 Students can use Quest For Questions to ask and anser question.
 Each question can be upvoted or downvoted. The idea is that good or useful questions are upvoted and bad questions downvoted.

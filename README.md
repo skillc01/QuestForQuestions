@@ -24,7 +24,7 @@ Original Repository found: https://github.com/webpigeon/hackessex
 ![QuestForQuestions](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestions.jpg)
 
 Our Team presenting Quest For Questions:
-![QuestForQuestions](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestions2.jpg)
+![QuestForQuestions2](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestions02.jpg)
 
 
 

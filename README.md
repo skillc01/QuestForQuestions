@@ -23,20 +23,22 @@ Original Repository found: https://github.com/webpigeon/hackessex
 
 ![QuestForQuestions](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestions.jpg)
 
+Our Team presenting Quest For Questions:
+![QuestForQuestions](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestions2.jpg)
 
 
 
 ## Authors
 
-* **Chloe Skillman** - * * - [Github](https://github.com/ChloeLS)
+* **Chloe Skillman** - [Github](https://github.com/ChloeLS)
                                          [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
 
-* **Daniel Gomme** -  *  *  -  [Github](https://github.com/OctarineSorcerer)
+* **Daniel Gomme**  -  [Github](https://github.com/OctarineSorcerer)
                                                   
-* **Joseph Walton-Rivers** -  * *  -  [Github](https://github.com/webpigeon)
+* **Joseph Walton-Rivers**  -  [Github](https://github.com/webpigeon)
 [Website](http://www.webpigeon.me.uk/index.html)
 
-* **Iulia Petria** -  *  -  [Github](https://github.com/Iulia0)
+* **Iulia Petria** -  [Github](https://github.com/Iulia0)
 
 
 ## Acknowledgments

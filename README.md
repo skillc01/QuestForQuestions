@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 
 
-## Screenshots and video
+## Screenshots and Images
 
 ![QuestForQuestions](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestions.jpg) ![Logo](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestionsLogo.jpg)
 

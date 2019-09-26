@@ -72,3 +72,4 @@ Presenting:
 
 *  Many thanks for Major League Hacking for running the event.
 *  Hugely grateful to Joseph, Daniel and Iulia
+*  Photos taken by  Lewis Adger & Javairia Qadir

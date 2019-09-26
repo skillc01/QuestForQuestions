@@ -41,9 +41,16 @@ pip install -r requirements.txt
 
 ![QuestForQuestions](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestions.jpg) ![Logo](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestionsLogo.jpg)
 
-Our Team presenting Quest For Questions:
 
-![QuestForQuestions2](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestions02.jpg)
+Development: 
+
+![Development](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/MakingQ4Q.jpg)
+
+Presenting:
+
+![Presenting1](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestions02.jpg)
+
+![Presenting2](https://raw.githubusercontent.com/ChloeLS/QuestForQuestions/master/QuestForQuestions03.jpg)
 
 
 

@@ -1,7 +1,11 @@
 ## QuestForQuestions
 
-HackEssex Creation. 
+HackEssex Creation.
+
+Created in 24 hours on 30th April 2017 for HackEssex17 run by Major League Hacking. 
+ 
 We tried to create something useful for students like us and thought of a website forum to be used in lessons.
+
 Use: 
 Students can use Quest For Questions to ask and anser question.
 Each question can be upvoted or downvoted. The idea is that good or useful questions are upvoted and bad questions downvoted.

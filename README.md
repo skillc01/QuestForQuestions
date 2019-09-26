@@ -2,7 +2,7 @@
 
 HackEssex Creation.
 
-Created in 24 hours on 30th April 2017 for HackEssex17 run by Major League Hacking. 
+Created in 24 hours during 29th - 30th April 2017 for HackEssex17 run by Major League Hacking. 
  
 We tried to create something useful for students like us and thought of a website forum to be used in lessons.
 

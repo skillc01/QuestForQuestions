@@ -59,7 +59,7 @@ Presenting:
 * **Chloe Skillman** - [Github](https://github.com/ChloeLS)
                                          [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
 
-* **Daniel Gomme**  -  [Github](https://github.com/OctarineSorcerer)
+* **Daniel Gomme**  -  [Github](https://github.com/OctarineSourcerer)
                                                   
 * **Joseph Walton-Rivers**  -  [Github](https://github.com/webpigeon)
 [FossGalaxy](https://git.fossgalaxy.com/webpigeon)

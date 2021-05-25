@@ -56,16 +56,16 @@ Presenting:
 
 ## Authors
 
-* **Chloe Skillman** - [Github](https://github.com/ChloeLS)
+* **Chloe Skillman** - [Github](https://github.com/skillc01)
                                          [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
 
-* **Daniel Gomme**  -  [Github](https://github.com/OctarineSourcerer)
+* **Daniel Gomme**  -  [Github](https://github.com/OctarineSourcerer) [LinkedIn](https://www.linkedin.com/in/daniel-gomme/)
                                                   
-* **Joseph Walton-Rivers**  -  [Github](https://github.com/webpigeon)
+* **Joseph Walton-Rivers**  -  [Github](https://github.com/webpigeon) [LinkedIn](https://www.linkedin.com/in/webpigeon/)
 [FossGalaxy](https://git.fossgalaxy.com/webpigeon)
 [Website](http://www.webpigeon.me.uk/index.html)
 
-* **Iulia Petria** -  [Github](https://github.com/Iulia0)
+* **Iulia Petria** -  [Github](https://github.com/Iulia0) [LinkedIn](https://www.linkedin.com/in/iulia-petria/)
 
 
 ## Acknowledgments

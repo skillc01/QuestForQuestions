@@ -63,7 +63,6 @@ Presenting:
                                                   
 * **Joseph Walton-Rivers**  -  [Github](https://github.com/webpigeon) [LinkedIn](https://www.linkedin.com/in/webpigeon/)
 [FossGalaxy](https://git.fossgalaxy.com/webpigeon)
-[Website](http://www.webpigeon.me.uk/index.html)
 
 * **Iulia Petria** -  [Github](https://github.com/Iulia0) [LinkedIn](https://www.linkedin.com/in/iulia-petria/)
 

@@ -1,6 +1,6 @@
 ## QuestForQuestions
 
-HackEssex Creation.
+1st Place Winner of HackEssex2017.
 
 Created in 24 hours during 29th - 30th April 2017 for HackEssex17 run by Major League Hacking. 
  
